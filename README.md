@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoutrikDas, Sophomore in CSE at IIT Dhanbad with interests in Web ( MERN stack for now )
+- 👋 Hi, I’m @SoutrikDas, Sophomore in CSE at IIT Dhanbad
 - 👀 I’m interested in Web Developement ( MERN ) and coding competitions
 - 🌱 I’m currently learning Node Js and Mongo DB 
 
